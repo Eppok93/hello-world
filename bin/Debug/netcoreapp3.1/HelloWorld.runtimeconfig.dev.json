@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/eppok/.dotnet/store/|arch|/|tfm|",
+      "/home/eppok/.nuget/packages"
+    ]
+  }
+}
